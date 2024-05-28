@@ -23,3 +23,5 @@ In this project, we investigate the following:
 For a comprehensive report on our findings, please refer to the provided Jupyter Notebooks or read our article here: https://medium.com/@abdulhaseeb494/3f8754e5045b
 
 Contributors: AbdulHaseeb Khan, Aazen Saleem, Ahmad Xoraiz Waheed, Ammar Hussain Uppal
+
+For any queries regarding this project, feel free to email me at 25100325@lums.edu.pk
