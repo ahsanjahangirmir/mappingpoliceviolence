@@ -16,11 +16,11 @@ Link to the dataset: https://airtable.com/appzVzSeINK1S3EVR/shroOenW19l1m3w0H/tb
 
 In this project, we investigate the following:
 
-- Class imbalances or any marginalisation/under-representation of ethnic minorities that are a part of the US Population (e.g. Hispanics, Blacks, etc) with the help of OVR Logistic Regression and SMOTE.
+- Class imbalances or any marginalization/under-representation of ethnic minorities that are a part of the US Population (e.g., Hispanics, Blacks, etc.) with the help of OVR Logistic Regression and SMOTE.
 - Using the temporal trends in police-related violence incidents to predict the number of deaths using Time Series Analysis (WMA)
-- Suggest a solution to prevent such incidents in the future by virtue of using the data to incorporate situational training for police using a Random Forest Classifier. A better way to understand this solution is this: we can leverage the solution to predict cause of death of a potential victim in a test situation and the police can then be trained to avoid that outcome in that particular situation.
+- Suggest a solution to prevent such incidents in the future by using the data to incorporate situational training for police using a Random Forest Classifier. A better way to understand this solution is this: we can leverage the solution to predict the cause of death of a potential victim in a test situation based on the available data, and the police can then be trained to avoid that outcome in that particular situation.
 
-For a comprehensive report on our findings, please refer to the provided Jupyter Notebooks or read our article here: https://medium.com/@abdulhaseeb494/3f8754e5045b
+For a comprehensive report on our findings, please refer to the provided Jupyter Notebooks or read our article here: https://medium.com/@abdulhaseeb494/3f8754e5045b.
 
 Contributors: AbdulHaseeb Khan, Aazen Saleem, Ahmad Xoraiz Waheed, Ammar Hussain Uppal
 
